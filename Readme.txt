@@ -1,5 +1,5 @@
 <script type="text/javascript">
 <!--
-window.location = "http://www.google.com/"
+window.location = "https://github.com/yayoyo0"
 //-->
 </script>
